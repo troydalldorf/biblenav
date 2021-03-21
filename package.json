@@ -6,7 +6,7 @@
     "react",
     "starter"
   ],
-  "homepage": "http://gitname.github.io/react-gh-pages",
+  "homepage": "http://troydalldorf.github.io/biblenav",
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
