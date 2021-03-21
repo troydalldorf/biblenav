@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/biblenav/static/js/main.44c06654.chunk.js",
+    "main.js.map": "/biblenav/static/js/main.44c06654.chunk.js.map",
+    "runtime~main.js": "/biblenav/static/js/runtime~main.30163b8a.js",
+    "runtime~main.js.map": "/biblenav/static/js/runtime~main.30163b8a.js.map",
+    "static/js/2.6e2e59eb.chunk.js": "/biblenav/static/js/2.6e2e59eb.chunk.js",
+    "static/js/2.6e2e59eb.chunk.js.map": "/biblenav/static/js/2.6e2e59eb.chunk.js.map",
+    "index.html": "/biblenav/index.html",
+    "precache-manifest.fa3daa5cfa471d46b0822984f934a502.js": "/biblenav/precache-manifest.fa3daa5cfa471d46b0822984f934a502.js",
+    "service-worker.js": "/biblenav/service-worker.js"
+  }
+}
